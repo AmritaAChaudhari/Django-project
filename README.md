@@ -1,1 +1,1 @@
-# Django-project
+# Python Framework Django-project
